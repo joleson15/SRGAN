@@ -1,4 +1,4 @@
 # SRGAN
 Super resolution of MRI images using Generative Adversarial Networks
 
-See [writeup.pdf] for the comprehensive project description(./writeup.pdf)
+See [writeup.pdf](./writeup.pdf) for the comprehensive project description
